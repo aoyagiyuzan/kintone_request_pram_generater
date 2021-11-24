@@ -1,0 +1,2 @@
+# kintone_request_pram_generater
+kintoneのリクエストパラメーターを動的生成するライブラリ
