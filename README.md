@@ -1,2 +1,2 @@
-# kintone_request_pram_generater
+# kintoneRestApiRequestGenerater
 kintoneのリクエストパラメーターを動的生成するライブラリ
